@@ -1,14 +1,14 @@
 # BrickyardMobile
 Automation Test Scripts for Brickyard 
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
